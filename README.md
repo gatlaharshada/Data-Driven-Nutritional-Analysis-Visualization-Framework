@@ -29,6 +29,7 @@ Feature engineering for nutrient ratios
 Machine learning classification models
 Model comparison and evaluation dashboard
 Prediction module for calorie classification
+
 🛠️ Technologies Used
 Python
 Pandas
@@ -37,17 +38,20 @@ Matplotlib
 Seaborn
 Scikit-learn
 XGBoost
+
 🤖 Machine Learning Models
 Logistic Regression
 Support Vector Machine (SVM)
 Random Forest
 XGBoost
+
 📊 Evaluation Metrics
 Accuracy
 Precision
 Recall
 F1-Score
 ROC-AUC
+
 📈 Visualizations
 Histograms
 Scatter Plots
@@ -55,3 +59,33 @@ Box Plots
 Correlation Heatmaps
 Feature Importance Graphs
 Confusion Matrix
+
+📂 Project Structure
+├── dataset/
+├── outputs/
+├── notebooks/
+├── src/
+├── README.md
+├── requirements.txt
+└── main.py
+
+▶️ How to Run
+pip install -r requirements.txt
+python main.py
+
+📌 Future Enhancements
+Personalized diet recommendation system
+Real-time food API integration
+Web application deployment
+Mobile application support
+IoT health device integration
+
+👩‍💻 Authors
+Harshada Gatla
+K Harshavardhan
+Metta Jeevan Balaji
+Akula Rama Krishna
+
+📄 Project Documentation
+
+Major project submitted for B.Tech CSE (AI & ML), JNTUH.
